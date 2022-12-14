@@ -1,0 +1,12 @@
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\bin\Debug\net5.0\RoboSimulator.deps.json
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\bin\Debug\net5.0\RoboSimulator.dll
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\bin\Debug\net5.0\ref\RoboSimulator.dll
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\bin\Debug\net5.0\RoboSimulator.pdb
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.csproj.AssemblyReference.cache
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.AssemblyInfoInputs.cache
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.AssemblyInfo.cs
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.dll
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\ref\RoboSimulator.dll
+C:\Users\jairo\Documents\Trop Tech\Trop Tech módulo 02\aula 22 - Revisao\ROBOSIMULATOR\RoboSimulator\obj\Debug\net5.0\RoboSimulator.pdb

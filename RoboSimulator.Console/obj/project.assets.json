@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "RoboSimulator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/RoboSimulator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RoboSimulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RoboSimulator/1.0.0": {
+      "type": "project",
+      "path": "../RoboSimulator/RoboSimulator.csproj",
+      "msbuildProject": "../RoboSimulator/RoboSimulator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "RoboSimulator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jairo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jairo\\Documents\\Trop Tech\\Trop Tech módulo 02\\aula 22 - Revisao\\ROBOSIMULATOR\\RoboSimulator.Console\\RoboSimulator.Console.csproj",
+      "projectName": "RoboSimulator.Console",
+      "projectPath": "C:\\Users\\jairo\\Documents\\Trop Tech\\Trop Tech módulo 02\\aula 22 - Revisao\\ROBOSIMULATOR\\RoboSimulator.Console\\RoboSimulator.Console.csproj",
+      "packagesPath": "C:\\Users\\jairo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jairo\\Documents\\Trop Tech\\Trop Tech módulo 02\\aula 22 - Revisao\\ROBOSIMULATOR\\RoboSimulator.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jairo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\jairo\\Documents\\Trop Tech\\Trop Tech módulo 02\\aula 22 - Revisao\\ROBOSIMULATOR\\RoboSimulator\\RoboSimulator.csproj": {
+              "projectPath": "C:\\Users\\jairo\\Documents\\Trop Tech\\Trop Tech módulo 02\\aula 22 - Revisao\\ROBOSIMULATOR\\RoboSimulator\\RoboSimulator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
